@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F29D6E27-14B0-8FF7-2BFB-20BB526057C3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScriptyBoi.cs">
+    <Files>
+      <File FileName="Assets/ScriptyBoi.cs" Line="77" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CubeRotationTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ScriptyBoi.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a262a558-156f-4658-acd8-e95202f60e98" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
